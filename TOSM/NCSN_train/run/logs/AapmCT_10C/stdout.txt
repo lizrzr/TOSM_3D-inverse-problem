@@ -1,0 +1,10 @@
+INFO - main_ImageNet.py - 2023-04-12 08:37:56,834 - Using device: cuda
+INFO - main_ImageNet.py - 2023-04-12 08:37:56,836 - Writing log file to run\logs\AapmCT_10C
+INFO - main_ImageNet.py - 2023-04-12 08:37:56,836 - Exp instance id = 7060
+INFO - main_ImageNet.py - 2023-04-12 08:37:56,836 - Exp comment = 
+INFO - main_ImageNet.py - 2023-04-12 08:37:56,836 - Config =
+ERROR - main_ImageNet.py - 2023-04-12 08:37:56,836 - Traceback (most recent call last):
+  File "D:\lzr\EASEL-master\EASEL-master\EASEL\NCSN_train\main_ImageNet.py", line 120, in main
+    runner.train()
+AttributeError: 'Aapm_Runner_CTtest_10_noconv' object has no attribute 'train'
+
