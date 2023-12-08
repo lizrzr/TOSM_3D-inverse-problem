@@ -1,4 +1,5 @@
 # TOSM-Two-and-a-half-Order-Score-based-Model-for-Solving-3D-Ill-posed-Inverse-Problems
+https://doi.org/10.1016/j.compbiomed.2023.107819 _**Computers in Biology and Medicine**_
 
 ## Install: conda install requirements.txt
 
